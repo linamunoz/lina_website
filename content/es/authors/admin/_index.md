@@ -24,7 +24,7 @@ interests:
 - Arte
 - Neuroaestética
 - Creatividad
-- Programación en <i class="fab fa-r-project">
+- Programación en <i class="fab fa-r-project"></i>
 
 education:
   courses:
